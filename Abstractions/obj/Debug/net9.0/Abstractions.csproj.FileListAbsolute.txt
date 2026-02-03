@@ -1,0 +1,15 @@
+/Users/osaul/RiderProjects/ATM/Abstractions/bin/Debug/net9.0/Abstractions.deps.json
+/Users/osaul/RiderProjects/ATM/Abstractions/bin/Debug/net9.0/Abstractions.dll
+/Users/osaul/RiderProjects/ATM/Abstractions/bin/Debug/net9.0/Abstractions.pdb
+/Users/osaul/RiderProjects/ATM/Abstractions/bin/Debug/net9.0/Core.dll
+/Users/osaul/RiderProjects/ATM/Abstractions/bin/Debug/net9.0/Core.pdb
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.csproj.AssemblyReference.cache
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.AssemblyInfoInputs.cache
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.AssemblyInfo.cs
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.csproj.CoreCompileInputs.cache
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstract.BBE051CE.Up2Date
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.dll
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/refint/Abstractions.dll
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/Abstractions.pdb
+/Users/osaul/RiderProjects/ATM/Abstractions/obj/Debug/net9.0/ref/Abstractions.dll

@@ -1,0 +1,11 @@
+/Users/osaul/RiderProjects/ATM/Core/bin/Debug/net9.0/Core.deps.json
+/Users/osaul/RiderProjects/ATM/Core/bin/Debug/net9.0/Core.dll
+/Users/osaul/RiderProjects/ATM/Core/bin/Debug/net9.0/Core.pdb
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.dll
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/Core.pdb
+/Users/osaul/RiderProjects/ATM/Core/obj/Debug/net9.0/ref/Core.dll

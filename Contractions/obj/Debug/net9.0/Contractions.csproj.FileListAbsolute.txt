@@ -1,0 +1,11 @@
+/Users/osaul/RiderProjects/ATM/Contractions/bin/Debug/net9.0/Contractions.deps.json
+/Users/osaul/RiderProjects/ATM/Contractions/bin/Debug/net9.0/Contractions.dll
+/Users/osaul/RiderProjects/ATM/Contractions/bin/Debug/net9.0/Contractions.pdb
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.AssemblyInfoInputs.cache
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.AssemblyInfo.cs
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.csproj.CoreCompileInputs.cache
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.dll
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/refint/Contractions.dll
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/Contractions.pdb
+/Users/osaul/RiderProjects/ATM/Contractions/obj/Debug/net9.0/ref/Contractions.dll

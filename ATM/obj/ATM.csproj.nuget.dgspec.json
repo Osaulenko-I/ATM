@@ -1,0 +1,501 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/osaul/RiderProjects/ATM/ATM/ATM.csproj": {}
+  },
+  "projects": {
+    "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj",
+        "projectName": "Abstractions",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/osaul/RiderProjects/ATM/Core/Core.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj",
+        "projectName": "Applications",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Applications/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Core/Core.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/ATM/ATM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/ATM/ATM.csproj",
+        "projectName": "ATM",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/ATM/ATM.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/ATM/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Http/Http.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Http/Http.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Repositories/Repositories.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Repositories/Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj",
+        "projectName": "Contractions",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Contractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Core/Core.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/Http/Http.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Http/Http.csproj",
+        "projectName": "Http",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Http/Http.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Http/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Contractions/Contractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/osaul/RiderProjects/ATM/Repositories/Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osaul/RiderProjects/ATM/Repositories/Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "/Users/osaul/RiderProjects/ATM/Repositories/Repositories.csproj",
+        "packagesPath": "/Users/osaul/.nuget/packages/",
+        "outputPath": "/Users/osaul/RiderProjects/ATM/Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Abstractions/Abstractions.csproj"
+              },
+              "/Users/osaul/RiderProjects/ATM/Core/Core.csproj": {
+                "projectPath": "/Users/osaul/RiderProjects/ATM/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

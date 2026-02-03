@@ -1,0 +1,15 @@
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/bin/Debug/net9.0/ATM.Aplication.deps.json
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/bin/Debug/net9.0/ATM.Aplication.dll
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/bin/Debug/net9.0/ATM.Aplication.pdb
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/bin/Debug/net9.0/ATM.Core.dll
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/bin/Debug/net9.0/ATM.Core.pdb
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.csproj.AssemblyReference.cache
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.AssemblyInfoInputs.cache
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.AssemblyInfo.cs
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.csproj.CoreCompileInputs.cache
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Apli.DDAE37FD.Up2Date
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.dll
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/refint/ATM.Aplication.dll
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ATM.Aplication.pdb
+/Users/osaul/RiderProjects/ATM/ATM.Aplication/obj/Debug/net9.0/ref/ATM.Aplication.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRSq7iB/xww=",
+  "success": true,
+  "projectFilePath": "/Users/osaul/RiderProjects/ATM/ATM/ATM.csproj",
+  "expectedPackageFiles": [
+    "/Users/osaul/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0/microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/microsoft.openapi/2.3.0/microsoft.openapi.2.3.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/swashbuckle.aspnetcore/10.1.0/swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.0/swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.0/swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.0/swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

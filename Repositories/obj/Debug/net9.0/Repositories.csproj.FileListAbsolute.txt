@@ -1,0 +1,17 @@
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Repositories.deps.json
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Repositories.dll
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Repositories.pdb
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Abstractions.dll
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Core.dll
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Abstractions.pdb
+/Users/osaul/RiderProjects/ATM/Repositories/bin/Debug/net9.0/Core.pdb
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.csproj.AssemblyReference.cache
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfoInputs.cache
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfo.cs
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Reposito.787EC4B2.Up2Date
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.dll
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/refint/Repositories.dll
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/Repositories.pdb
+/Users/osaul/RiderProjects/ATM/Repositories/obj/Debug/net9.0/ref/Repositories.dll

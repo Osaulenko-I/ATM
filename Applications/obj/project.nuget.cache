@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wz57zQ86h/c=",
+  "success": true,
+  "projectFilePath": "/Users/osaul/RiderProjects/ATM/Applications/Applications.csproj",
+  "expectedPackageFiles": [
+    "/Users/osaul/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0/microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/osaul/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
